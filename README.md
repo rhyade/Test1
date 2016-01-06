@@ -1,9 +1,9 @@
-The ittc tile services workflow is used to create the following **four** files
-	*ittc_services_unflattened.geojson*
+######The ITTC tile services workflow is used to create the following **four** files######
+	ittc_services_unflattened.geojson
 		This is used for the ITTC Services webmap.
-	*ittc_services_flattened.geojson*
-	*ittc_services_flattened.shp*
-	*ittc_services_flattened.kml*
+	ittc_services_flattened.geojson
+	ittc_services_flattened.shp
+	ittc_services_flattened.kml
 		These three files will be available for download and dissemination.
 
 To obtain the four files you must use the following four files
